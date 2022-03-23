@@ -16,7 +16,7 @@ Here's how you run the client & server.
 2. In the command line, enter the directory that was created (roblox-web-viewer) and run `npm install`. This will install all required dependencies listed in `package.json`.
 
 ## Running
-1. Run `node server` and `node cors` in two command lines. Once both are started, you can visit http://localhost:8080 in a web browser!
+1. Run `npm run server` and `npm run cors` in two command lines. Once both are started, you can visit http://localhost:8080 in a web browser!
 
 ## Seeing servers
 Right now, as the web server is hosted on your computer, only test servers running in Roblox Studio can communicate with the web server.
